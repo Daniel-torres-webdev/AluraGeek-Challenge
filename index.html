@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg" href="./assets/Logo.svg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css">
+    <link rel="stylesheet" href="./styles/rescet.css">
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/roots.css">
+    <link rel="stylesheet" href="./styles/media.css">
+    <title> AluraGeek | Daniel Andres Torres</title>
+</head>
+<body>
+        <nav class="navbar">
+            <!-- Logo -->
+            <div class="logo__content">
+                <a href="index.html" aria-label="Inicio"> 
+                    <img src="./assets/Logo.svg" alt="Logo de la página" class="image__logo">
+                </a>
+            </div>
+            <!-- Caja de búsqueda -->
+            <div class="search__box">
+                <form id="search__box--form" role="search" aria-label="Buscar productos">
+                    <div class="search__box--input">
+                        <input type="search" id="query" name="search" placeholder="Buscar..." 
+                            aria-label="Buscar productos" required class="search--input">
+                            <i class="ri-search-2-line" aria-hidden="true"></i>
+                            
+                    </div>
+                </form>
+            </div>
+        </nav>
+
+    <main class="content__container--primary">
+        <!-- Lista de productos -->
+        <section class="products__list">
+            <h2>MIS PRODUCTOS:</h2>
+                <div data-product class="products__flex">
+                    <!-- Producto 1 
+                    <div class="product__image">
+                        <img src="./assets/stormtrooper-star-wars.jpg" alt="Stormtrooper" >
+                    </div>
+                    <div class="product__card">
+                        <h3 class="product__title">Stormtrooper</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/gameboy.png" alt="Game Boy Classic" class="product__image">
+                        <h3 class="product__title">Game Boy Classic</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/stormtrooper-star-wars.jpg" alt="Stormtrooper" class="product__image">
+                        <h3 class="product__title">Stormtrooper</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/gameboy.png" alt="Game Boy Classic" class="product__image">
+                        <h3 class="product__title">Game Boy Classic</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+                    
+                    <div class="product__card">
+                        <img src="./assets/stormtrooper-star-wars.jpg" alt="Stormtrooper" class="product__image">
+                        <h3 class="product__title">Stormtrooper</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/gameboy.png" alt="Game Boy Classic" class="product__image">
+                        <h3 class="product__title">Game Boy Classic</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/stormtrooper-star-wars.jpg" alt="Stormtrooper" class="product__image">
+                        <h3 class="product__title">Stormtrooper</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/gameboy.png" alt="Game Boy Classic" class="product__image">
+                        <h3 class="product__title">Game Boy Classic</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+
+                    <div class="product__card">
+                        <img src="./assets/gameboy.png" alt="Game Boy Classic" class="product__image">
+                        <h3 class="product__title">Game Boy Classic</h3>
+                        <p class="product__price">$60,00</p>
+                        <button class="product__delete"><i class="ri-delete-bin-line"></i></button>
+                    </div>
+                    -->
+                </div>
+            </section>
+
+            <div class="add__product" data-button>
+                <button class="btn"><i class="ri-add-line"></i>Agregar Producto</button>
+            </div>
+    </main>
+
+    <footer class="footer">
+        <!-- Marca del desarrollador -->
+        <div class="footer__brand">
+            <a href="index.html">Dev Daniel.</a>
+            <p>© 2024 Daniel Andres Torres Rodriguez.</p>
+        </div>
+        <!-- Enlaces de navegación -->
+        <div class="footer__links">
+            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <i class="ri-instagram-line"></i>
+            </a>
+            <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                <i class="ri-github-line"></i>
+            </a>
+            <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <i class="ri-linkedin-line"></i>
+            </a>
+        </div>
+    </footer>
+
+    <script type="module" src="./js/controllers/main.js"></script>
+</body>
+</html>

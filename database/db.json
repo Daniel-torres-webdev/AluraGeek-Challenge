@@ -1,0 +1,100 @@
+{
+    "products":[
+        {
+            "name": "MONITOR GAMER JANUS",
+            "price": "60",
+            "image": "https://images.ecestaticos.com/wzaagG6vwY97_lWirKzDzqIBRj0=/0x0:1600x900/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faaa%2Fb46%2F208%2Faaab46208d2685d512ccfa146c4f3531.jpg",
+            "id": 1
+        },
+        {
+            "name": "Monitor Gamer UltraGear",
+            "price": "60",
+            "image": "https://www.lg.com/content/dam/channel/wcms/co/images/monitores/24gs65f-b_awp_escb_co_c/gallery/ultragear-24gs65f-gallery-02-2010.jpg/_jcr_content/renditions/thum-1600x1062.jpeg",
+            "id": 2
+        },
+        {
+            "name": "Monitor Gamer Samsung",
+            "price": "60",
+            "image": "https://teknopolis.vtexassets.com/arquivos/ids/214030/Monitor-Gamer-Samsung-LS24DG300ENXZA-1.jpg",
+            "id": 3
+        },
+        {
+            "name": "Monitor Gamer Curvo 34 Xiaomi",
+            "price": "60",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_827699-MLU74975109969_032024-O.webp",
+            "id": 4
+        },
+        {
+            "name": "Portatil ACER Nitro",
+            "price": "60",
+            "image": "https://compucentro.co/wp-content/uploads/19426205-800-auto.png",
+            "id": 5
+        },
+        {
+            "name": "Portatil Core i7",
+            "price": "60",
+            "image": "https://onlinecomputer.com.co/assets/img/articulos/Portatil-Gamer-Core-i7-MSI-GF75-THIN-10SCSR.jpg",
+            "id": 6
+        },
+        {
+            "name": "Portatil asus rog strix g15",
+            "price": "60",
+            "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120546.jpg",
+            "id": 7
+        },
+        {
+            "name": "Portátil Gamer Hp Core I7",
+            "price": "60",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_889650-MCO78193808983_082024-O.webp",
+            "id": 8
+        },
+        {
+            "name": "MOUSE GAMER X10",
+            "price": "60",
+            "image": "https://www.steren.com.co/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/22331c7bc/mouse-usb-para-gamers-1200-2400-3200-dpi.jpg",
+            "id": 9
+        },
+        {
+            "name": "Mouse Gamer Con Cable Usb",
+            "price": "60",
+            "image": "https://exitocol.vtexassets.com/arquivos/ids/5943030/mouse-gamer-con-cable-usb-7-botones-rueda-desplazamiento-x7.jpg",
+            "id": 10
+        },
+        {
+            "name": "Logitech G502 ",
+            "price": "60",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_666091-MLU76790938537_062024-O.webp",
+            "id": 11
+        },
+        {
+            "name": "Mouse Gamer G309 LightSpeed",
+            "price": "60",
+            "image": "https://megacomputer.com.co/wp-content/uploads/2024/09/Product_20240826122725137909178.negro-2.webp",
+            "id": 12
+        },
+        {
+            "name": "Chasis Gamer JX123",
+            "price": "60",
+            "image": "https://jyrtechnology.com.co/wp-content/uploads/2023/07/JX123-1.jpg",
+            "id": 13
+        },
+        {
+            "name": "Chasis Gamer JX104",
+            "price": "60",
+            "image": "http://quorumsystem.com.co/wp-content/uploads/2023/03/d2902-2.jpg",
+            "id": 14
+        },
+        {
+            "name": "Chasis Gamer Jx119 Aurora",
+            "price": "60",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_955286-MCO70801874655_072023-O.webp",
+            "id": 15
+        },
+        {
+            "name": "Chasis Gamer Iceberg Crystal Max",
+            "price": "60",
+            "image": "https://pcgamermedellin.com/wp-content/uploads/2023/11/chasis-caja-gamer-atx-iceberg-crystal-max-1-1.jpg",
+            "id": 16
+        }
+    ]
+}
